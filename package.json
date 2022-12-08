@@ -1,0 +1,14 @@
+{
+  "name": "anchorites26401",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "818king Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ 818king คาสิโนออนไลน์ เว็บใหญ่ สมัครเล่นเกมคาสิโนผ่านเว็บ",
+  "keywords": [
+    "818king Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ 818king คาสิโนออนไลน์ เว็บใหญ่ สมัครเล่นเกมคาสิโนผ่านเว็บ"
+  ],
+  "repository": "https://github.com/yorkinyellow/anchorites26401",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
